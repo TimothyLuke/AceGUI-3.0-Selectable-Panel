@@ -1,0 +1,7 @@
+package-as: AceGUI-3.0-Selectable-Panel
+
+enable-nolib-creation: no
+
+ignore:
+    - .travis.yml
+    - README.md
